@@ -1,0 +1,15 @@
+C:\Users\zuhaib hassan\source\repos\MT-MS\bin\Debug\MT-MS.exe.config
+C:\Users\zuhaib hassan\source\repos\MT-MS\bin\Debug\MT-MS.exe
+C:\Users\zuhaib hassan\source\repos\MT-MS\bin\Debug\MT-MS.pdb
+C:\Users\zuhaib hassan\source\repos\MT-MS\obj\Debug\MT-MS.csproj.AssemblyReference.cache
+C:\Users\zuhaib hassan\source\repos\MT-MS\obj\Debug\MT_MS.Form1.resources
+C:\Users\zuhaib hassan\source\repos\MT-MS\obj\Debug\MT_MS.Properties.Resources.resources
+C:\Users\zuhaib hassan\source\repos\MT-MS\obj\Debug\MT-MS.csproj.GenerateResource.cache
+C:\Users\zuhaib hassan\source\repos\MT-MS\obj\Debug\MT-MS.csproj.CoreCompileInputs.cache
+C:\Users\zuhaib hassan\source\repos\MT-MS\obj\Debug\MT-MS.exe
+C:\Users\zuhaib hassan\source\repos\MT-MS\obj\Debug\MT-MS.pdb
+C:\Users\zuhaib hassan\source\repos\MT-MS\obj\Debug\MT_MS.Home.resources
+C:\Users\zuhaib hassan\source\repos\MT-MS\obj\Debug\MT_MS.Employee.resources
+C:\Users\zuhaib hassan\source\repos\MT-MS\obj\Debug\MT_MS.Verify.resources
+C:\Users\zuhaib hassan\source\repos\MT-MS\obj\Debug\MT_MS.EmpAttendance.resources
+C:\Users\zuhaib hassan\source\repos\MT-MS\obj\Debug\MT_MS.View.resources

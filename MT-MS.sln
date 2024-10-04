@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MT-MS", "MT-MS.csproj", "{59F93BED-DE4A-453F-BED3-6C9E03312792}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MT-EMS", "..\MT-EMS\MT-EMS.vdproj", "{F368ECC4-3DEA-4549-90E9-17EC31EDAAA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59F93BED-DE4A-453F-BED3-6C9E03312792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F93BED-DE4A-453F-BED3-6C9E03312792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F93BED-DE4A-453F-BED3-6C9E03312792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F93BED-DE4A-453F-BED3-6C9E03312792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F368ECC4-3DEA-4549-90E9-17EC31EDAAA2}.Debug|Any CPU.ActiveCfg = Debug
+		{F368ECC4-3DEA-4549-90E9-17EC31EDAAA2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A39FBCDE-626B-4752-B932-2759EFCE61F7}
+	EndGlobalSection
+EndGlobal
