@@ -1,4 +1,6 @@
 # MT-Employee Management System
+I developed MT-Employee Management System Desktop App using C# DotNet(.Net) Framework and SqlServer
+
 # Demo Video
 
 
